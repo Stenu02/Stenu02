@@ -4,15 +4,6 @@
 🍎 Apple Developer Academy alumnus (Naples, 2024–25)<br>
 📊 Interested in data systems, machine learning and security<br>
 
-### Featured projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [GeoRuggine](https://github.com/Stenu02/Geo-Rust) | Real-time fleet tracking system; I built the server | Rust · Tokio · SQLite |
-| [Battaglia Navale](https://github.com/Stenu02/battaglia-navale) | Full-stack Battleship web game with tournaments | React · Express · SQLite |
-| [UNFOG](https://github.com/Stenu02/UNFOG) | iPhone and Apple Watch aid for Parkinson's freezing of gait | Swift · SwiftUI · watchOS |
-| [PollOcean](https://github.com/Stenu02/PollOcean-app) | iOS fishing game about ocean pollution | Swift · SwiftUI |
-
 ### Tech I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
