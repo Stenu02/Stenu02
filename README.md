@@ -12,7 +12,6 @@
 | [Battaglia Navale](https://github.com/Stenu02/battaglia-navale) | Full-stack Battleship web game with tournaments | React · Express · SQLite |
 | [UNFOG](https://github.com/Stenu02/UNFOG) | iPhone and Apple Watch aid for Parkinson's freezing of gait | Swift · SwiftUI · watchOS |
 | [PollOcean](https://github.com/Stenu02/PollOcean-app) | iOS fishing game about ocean pollution | Swift · SwiftUI |
-| [GymBro](https://github.com/Stenu02/GymBro) | iOS app to plan and track gym workouts | Swift · SwiftUI |
 
 ### Tech I work with
 
